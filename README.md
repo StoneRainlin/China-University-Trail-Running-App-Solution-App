@@ -1,5 +1,7 @@
 # China-University-Trail-Running-App-Solution-App
 Based on the Android system, this method utilizes virtual machines and virtual positioning technology to solve the problem of tracking and recording movement trajectories.
+
+
 IN ENGLISH
 First, you need to enable Developer Mode on your system—usually by repeatedly tapping the system version number.
 Next, install the "Shadowsocks" (Yingsuo) app on your phone's main system (the one you normally use for apps like WeChat, QQ, and Bilibili).
