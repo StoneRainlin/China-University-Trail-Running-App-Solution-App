@@ -13,3 +13,7 @@ IN CHINESE
 其次，在手机主系统（就是你正常使用WeChat、QQ、bilibili的系统）安装影梭APP。
 接着下载任意虚拟机模拟器（以光速虚拟机为例），在虚拟机里下载步道乐跑APP并登录。
 最后打开主系统的影梭app并启动，开启悬浮窗，选择地点和运动配速。切换回模拟器里完成跑步即可。
+
+
+Note that this project does not provide any software！！！
+注意，本项目不提供任何软件！！！
